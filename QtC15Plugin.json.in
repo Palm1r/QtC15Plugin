@@ -1,0 +1,14 @@
+{
+    "Id" : "qtc15plugin",
+    "Name" : "QtC15Plugin",
+    "Version" : "0.0.1",
+    "CompatVersion" : "0.0.1",
+    "Vendor" : "Petr Mironychev",
+    "VendorId" : "petrmironychev",
+    "Copyright" : "(C) Petr Mironychev",
+    "License" : "Put short license information here",
+    "Description" : "Put a short description of your plugin here",
+    "Url" : "https://github.com/Palm1r",
+    "DocumentationUrl" : "",
+    ${IDE_PLUGIN_DEPENDENCIES}
+}
